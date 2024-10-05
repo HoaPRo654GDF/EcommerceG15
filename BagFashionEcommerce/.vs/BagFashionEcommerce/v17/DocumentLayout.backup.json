@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Project\\EcommerceG15\\BagFashionEcommerce\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F736B193-38AF-4987-BC47-4217D86FF185}|BagFashionEcommerce\\BagFashionEcommerce.csproj|d:\\project\\ecommerceg15\\bagfashionecommerce\\bagfashionecommerce\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F736B193-38AF-4987-BC47-4217D86FF185}|BagFashionEcommerce\\BagFashionEcommerce.csproj|solutionrelative:bagfashionecommerce\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F736B193-38AF-4987-BC47-4217D86FF185}|BagFashionEcommerce\\BagFashionEcommerce.csproj|d:\\project\\ecommerceg15\\bagfashionecommerce\\bagfashionecommerce\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F736B193-38AF-4987-BC47-4217D86FF185}|BagFashionEcommerce\\BagFashionEcommerce.csproj|solutionrelative:bagfashionecommerce\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Project\\EcommerceG15\\BagFashionEcommerce\\BagFashionEcommerce\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BagFashionEcommerce\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Project\\EcommerceG15\\BagFashionEcommerce\\BagFashionEcommerce\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BagFashionEcommerce\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T09:50:59.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Project\\EcommerceG15\\BagFashionEcommerce\\BagFashionEcommerce\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BagFashionEcommerce\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Project\\EcommerceG15\\BagFashionEcommerce\\BagFashionEcommerce\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BagFashionEcommerce\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T09:37:38.407Z",
+              "EditorCaption": ""
             }
           ]
         }
